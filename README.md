@@ -1,2 +1,6 @@
-# Design4You
-Automatic CSS Generating of Design 
+# CSS-4-YOU
+Automatic CSS Generating for designs.
+
+  - Claymorphism
+  - Neomorphism
+  - Glassmorphism
